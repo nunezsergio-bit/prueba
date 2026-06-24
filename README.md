@@ -1,11 +1,7 @@
-# Inventario de insumos - PRUEBA
+# Backend
+# Run: npm install && npm run migrate && npm run seed && npm run dev
 
-Repositorio para la web de inventario de insumos de la institución.
+# Frontend
+# Run: npm install && npm run dev
 
-Este repo contendrá un backend en Node.js + Express con SQLite y un frontend en React (Vite).
-
-Estructura prevista:
-- backend/  (API, base de datos SQLite)
-- frontend/ (React + Vite)
-
-Próximo paso: crear la rama `feature/inventory-mvp` con el scaffold inicial del proyecto.
+# Branch: feature/inventory-mvp
